@@ -1,0 +1,14 @@
+{
+  "name": "tutorial-1",
+  "version": "1.0.0",
+  "description": "Screeps tutorial 1",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sadnan Saquif",
+  "license": "ISC",
+  "dependencies": {
+    "@types/screeps": "^3.0.0"
+  }
+}
