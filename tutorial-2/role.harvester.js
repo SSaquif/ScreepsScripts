@@ -20,7 +20,7 @@ var roleHarvester = {
 	}
 };
 
-//make it into a factory function or class later
+//make it into a factory function or maybe switch to class later class later
 function createHarvester(creep) {
 	return {
 		run: () => {
