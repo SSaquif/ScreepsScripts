@@ -1,5 +1,19 @@
 # Screeps Scripts @ssaquif
 
+## Contents
+
+- [Screeps Scripts @ssaquif](#screeps-scripts--ssaquif)
+  - [Intro](#intro)
+  - [Memory](#memory)
+  - [Spawns](#spawns)
+    - [Spawn Functions](#spawn-functions)
+  - [Creeps](#creeps)
+    - [Basics, Movement and Damage](#basics--movement-and-damage)
+    - [Actual Code Realted Stuff](#actual-code-realted-stuff)
+    - [Creep Functions](#creep-functions)
+    - [Some Useful Properties of Creeps](#some-useful-properties-of-creeps)
+  - [Energy](#energy)
+
 ## Intro
 
 > **Note To Self::** Should use **_Factory Pattern_**, good way to practice **_Factory Functions_** instead. Currently using classes, keep both for comparison.
