@@ -101,7 +101,8 @@ Samples:
 
 ```javascript
 {
-	'Harvester1':{}, //Can name them whatever
+    //Can name them whatever
+    'Harvester1':{},
     'GoldenGod':{},
     'Denis':{}
 };
@@ -136,10 +137,12 @@ creep.transfer(Game.spawns.Spawn1, RESOURCE_ENERGY);
 //current position probably
 creep.pos;
 //current amount of energy harvested by creep !!Not sure
-creep.carry.energy;
+creep.store.energy;
 //Max energy carrying capacity, !! Not sure
-creep.carryCapacity;
+creep.store.getCapacity();
 ```
+
+> See the store object
 
 ## Energy
 
